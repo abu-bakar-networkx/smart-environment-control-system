@@ -24,10 +24,12 @@ Hardware Used:-
 - Push Buttons
 - Breadboard & Jumper Wires
 
-Project Setup 
+Project Setup:-
+
 ![Setup](setup.jpg)
 
-Circuit Diagram
+Circuit Diagram:-
+
 ![Schematic](schematic.png)
 
 How to run:- 

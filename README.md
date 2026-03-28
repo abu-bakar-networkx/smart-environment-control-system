@@ -29,3 +29,20 @@ Project Setup
 
 Circuit Diagram
 ![Schematic](schematic.png)
+
+How to run:- 
+1. Clone the repository
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Configure MQTT credentials in the code
+4. Connect hardware components:
+   - BH1750 (Light Sensor)
+   - BMP280 (Temperature Sensor)
+   - LED (PWM control)
+   - Fan (GPIO output)
+   - Push buttons
+5. Run the program:
+   python3 main.py
+6. Monitor output:
+   - Real-time sensor data in terminal
+   - Data published to ThingSpeak via MQTT

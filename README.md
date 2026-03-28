@@ -23,3 +23,9 @@ Hardware Used:-
 - Cooling Fan
 - Push Buttons
 - Breadboard & Jumper Wires
+
+Project Setup 
+![Setup](setup.jpg)
+
+Circuit Diagram
+![Schematic](schematic.png)

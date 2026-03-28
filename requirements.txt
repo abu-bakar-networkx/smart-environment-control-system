@@ -1,0 +1,4 @@
+smbus2
+bmp280
+paho-mqtt
+wiringpi
